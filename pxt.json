@@ -1,5 +1,5 @@
 {
-    "name": "Rainbow Realm",
+    "name": "Rainbow Dash",
     "dependencies": {
         "device": "*",
         "color-coded-tilemap": "*"
